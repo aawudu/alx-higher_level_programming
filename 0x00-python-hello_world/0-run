@@ -1,3 +1,2 @@
-#!/usr/bin/python3
-
-print('My fist python script')
+#!/bin/bash
+python3 $PYFILE
